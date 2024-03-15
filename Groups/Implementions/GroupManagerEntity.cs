@@ -4,5 +4,5 @@ namespace Groups.Implementions;
 
 public class GroupManagerEntity
 {
-
+    
 }
